@@ -1,6 +1,9 @@
 # Walmart-sales-prediction
 
 ## Objectives:
+get an overview on sales and predict them as accurately as possible
+
+## steps
 - Understand the Dataset & cleanup (if required).
 - Build Regression models to predict the sales.
 - Also evaluate the models & compare their respective scores like R2, RMSE, etc.
